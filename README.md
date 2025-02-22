@@ -1,5 +1,3 @@
-Aqui está uma descrição para o seu repositório no GitHub:  
-
 ---
 
 # 🎬 Divisor de Vídeos com MoviePy  
